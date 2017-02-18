@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    }
+]

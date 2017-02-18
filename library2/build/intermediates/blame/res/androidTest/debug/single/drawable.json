@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/zhouli/Documents/android 开源/MyApplication/library2/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/zhouli/Documents/android_open_source/MyApplication/library2/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    }
+]
